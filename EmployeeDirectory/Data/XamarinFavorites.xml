@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Favorites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <People>
+    <Person>
+      <Id>nat@xamarin.com</Id>
+
+      <Name>John Doe</Name>
+
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+
+      <MobileNumbers />
+
+      <Email>fakemail@xamarin.com</Email>
+      <Twitter>@natfriedman</Twitter>
+      <Title>CEO</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+    <Person>
+      <Id>miguel@xamarin.com</Id>
+      <Name>John Doe</Name>
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+      <MobileNumbers />
+      <Email>fakemail@xamarin.com</Email>
+      <Twitter>@migueldeicaza</Twitter>
+      <Title>CTO</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+    <Person>
+      <Id>joseph@xamarin.com</Id>
+      <Name>John Doe</Name>
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+      <MobileNumbers />
+      <Email>fakemail@xamarin.com</Email>
+      <Twitter>@josephhill</Twitter>
+      <Title>COO</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+    <Person>
+      <Id>stephanie.schatz@xamarin.com</Id>
+      <Name>John Doe</Name>
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+      <MobileNumbers />
+      <Email>fakemail@xamarin.com</Email>
+      <Twitter>@she_travels</Twitter>
+      <Title>VP Sales</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+    <Person>
+      <Id>hello@xamarin.com</Id>
+      <Name>John Doe</Name>
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+      <MobileNumbers />
+      <Email>fakemail@xamarin.com</Email>
+      <Twitter>@xamarinhq</Twitter>
+      <Title>Mascot</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+    <Person>
+      <Id>anuj.bhatia@xamarin.com</Id>
+      <Name>John Doe</Name>
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+      <MobileNumbers />
+      <Email>fakemail@xamarin.com</Email>
+      <Title>Customer Success Engineer</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+    <Person>
+      <Id>jo.ann.buckner@xamarin.com</Id>
+      <Name>John Doe</Name>
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+      <MobileNumbers />
+      <Email>fakemail@xamarin.com</Email>
+      <Twitter>@joannbuckner</Twitter>
+      <Title>Marketing</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+    <Person>
+      <Id>chrisntr@xamarin.com</Id>
+      <Name>John Doe</Name>
+      <TelephoneNumbers>
+        <string>+2779984732</string>
+      </TelephoneNumbers>
+      <HomeNumbers />
+      <MobileNumbers />
+      <Email>fakemail@xamarin.com</Email>
+      <Twitter>@chrisntr</Twitter>
+      <Title>Support Dude</Title>
+      <Company>Xamarin</Company>
+      <Department>Developers</Department>
+    </Person>
+  </People>
+</Favorites>
